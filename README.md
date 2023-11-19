@@ -49,25 +49,16 @@ This project is licensed under the MIT License.
 >            * [2a Examples](#2a-examples)
 >            * [2a Practical Uses](#2a-practical-uses)
 
-> There's code inside this dropdown...
-> 
-> This is how you add `code` in a dropdown:
-> 
-> ```js
-> console.log("Hello, world!");
-> ```
-> 
-> ```
->     <details>
->       <summary>There's code inside this dropdown...</summary>
->       <br>
->       
->       This is how you add `code` in a dropdown:
->       ```javascript
->       console.log("Hello, world!");
->       ```
->     </details>
-> ```
+     <details>
+       <summary>There's code inside this dropdown...</summary>
+       <br>
+       
+       This is how you add `code` in a dropdown:
+       ```javascript
+       console.log("Hello, world!");
+       ```
+     </details>
+ 
 
 
 
