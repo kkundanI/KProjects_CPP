@@ -55,7 +55,8 @@ This project is licensed under the MIT License.
                <summary>There's code inside this dropdown...</summary>
                <br>
                     This is how you add `code` in a dropdown:
-               ```javascript
+               ```
+               javascript
                console.log("Hello, world!");
                ```
   </details>
