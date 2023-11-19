@@ -55,8 +55,15 @@ This project is licensed under the MIT License.
                <summary>There's code inside this dropdown...</summary>
                <br>
                     This is how you add `code` in a dropdown:
-     javascript
-     console.log("Hello, world!");
+   1. [About The Project](#about-the-project)
+          
+            * [README Template](#readme-template)
+   2. [Decoupling Object Properties](#decoupling-object-properties)
+      <details>
+        <summary> 2a</summary>
+         * [2a Examples](#2a-examples)
+         * [2a Practical Uses](#2a-practical-uses)
+      </details>
   
  </details>
  
