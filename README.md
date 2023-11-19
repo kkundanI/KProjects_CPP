@@ -50,8 +50,7 @@ This project is licensed under the MIT License.
 >            * [2a Practical Uses](#2a-practical-uses)
 
 
-
-  <details>
+<details>
                <summary>There's code inside this dropdown...</summary>
                <br>
                    
@@ -61,9 +60,9 @@ This project is licensed under the MIT License.
    2. [Decoupling Object Properties](#decoupling-object-properties)
       <details>
         <summary> 2a</summary>
-    * [2a Examples](#2a-examples)
-    * [2a Practical Uses](#2a-practical-uses)
-  </details>
+                  ` [2a Examples](#2a-examples)`
+                  ` [2a Practical Uses](#2a-practical-uses)`
+      </details>
   
  </details>
  
