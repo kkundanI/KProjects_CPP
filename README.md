@@ -37,6 +37,20 @@ Here are some examples of how to use the calculator:
 
 This project is licensed under the MIT License.
 
+
+> Table of Contents
+> 1. [About The Project](#about-the-project)
+>          
+>            * [README Template](#readme-template)
+> 2. [Decoupling Object Properties](#decoupling-object-properties)
+>    
+>      2a
+>          
+>            * [2a Examples](#2a-examples)
+>            * [2a Practical Uses](#2a-practical-uses)
+
+
+
 ## Contributors
 
 * [Your Name](your@email.com)
